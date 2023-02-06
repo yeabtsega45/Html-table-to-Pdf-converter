@@ -1,0 +1,14 @@
+{
+  "name": "html-table-to-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "groups.js",
+  "scripts": {
+    "start": "node puppeteer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}
